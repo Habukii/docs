@@ -1,0 +1,7 @@
+# RESPONSE
+
+This tag means that the command may be used during a `RESPONSE` phase.
+
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

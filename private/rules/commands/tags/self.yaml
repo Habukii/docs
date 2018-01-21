@@ -1,0 +1,8 @@
+# SELF
+
+This tag means that the command may target oneself.
+
+[!blue] > This tag is frequently paired with the `FRIENDLY` tag, to create commands that heal and bolster a character.
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

@@ -1,0 +1,73 @@
+# ******************************************************************
+#   Copyright (C) 2010-2018 Ciel <stacey.cielia.lynn@gmail.com>
+#   Coderpillr - All Rights Reserved
+#
+#   Unauthorized copying of this file, via any medium, is strictly
+#   prohibited. The contents of this code is both proprietary and
+#   confidential.
+#
+#   @author Ciel
+# *******************************************************************/
+# ignore files specific to this repository
+**/.vscode
+**/.idea
+
+# ignore sensitive files
+**/.gitcredentials
+
+# ignore compiled output directories
+**/dist
+**/tmp
+**/out-tsc
+**/docs/api
+**/docs/dist
+**/wwwroot
+
+# ignore user specific files that store settings locally
+*.suo
+*.user
+
+# ignore end-to-end testing results and outputs
+**/e2e/*.js
+**/e2e/*.map
+
+# ignore system files, caches, thumbnails, and
+# operating system specific files
+.DS_Store
+Thumbs.db
+
+# ignore caches
+**/bin
+**/obj
+
+# ignore logging directories
+**/connect.lock
+**/coverage
+**/libpeerconnection.log
+
+# ignore logging files
+npm-debug.log
+testem.log
+
+# ignore build results and debug output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# ignore downloaded packages
+**/node_modules
+**/bower_components
+**/jspm_packages
+
+# ignore downloaded package version locks
+package-lock.json
+
+# ignore git history
+.history

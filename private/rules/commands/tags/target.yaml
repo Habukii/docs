@@ -1,0 +1,7 @@
+# TARGET
+
+This tag means that the command may apply to a selected target that is not oneself.
+
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

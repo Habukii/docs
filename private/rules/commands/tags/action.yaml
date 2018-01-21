@@ -1,0 +1,7 @@
+# ACTION
+
+This tag means that the command may be used during an `ACTION` phase.
+
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

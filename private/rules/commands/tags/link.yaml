@@ -1,0 +1,10 @@
+# LINK
+
+This tag means that the command may be used in a `LINK` slot.
+
+[!red] > The command must have the corresponding `PHASE` tag to be used, as well.
+
+
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

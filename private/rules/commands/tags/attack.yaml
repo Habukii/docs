@@ -1,0 +1,8 @@
+# ATTACK
+
+This tag means that the command has the user roll `ATTACK` to inflict damage.
+
+[!gold] > Even a command that bolsters your **attack** statistic, or appears to be offensive, does not actually have you roll **attack** unless it has this tag. If you execute a series of commands in a given phase intending to damage a target, but none of the commands have the `ATTACK` tag, then it's the same as just bulking up your character and doing nothing - no damage would be rolled.
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

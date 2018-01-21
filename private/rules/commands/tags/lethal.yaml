@@ -1,0 +1,9 @@
+# LETHAL
+
+This tag means that the command's effects are always considered lethal, and may not be restrained.
+
+[!red] > Typically, lethal commands are not allowed in friendly combat.
+
+
+---
+[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

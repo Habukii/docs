@@ -1,9 +1,0 @@
-# PERSIST
-
-This tag means that the effects of the command apply immediately, and continue to apply for a set duration.
-
-[!blue] > If no duration is given, the current encounter is the default.
-
-
----
-[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

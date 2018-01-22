@@ -1,7 +1,0 @@
-# RECOVERY
-
-This tag means that the effects of the command are considered a _recovery_ effect, such as healing.
-
-
----
-[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

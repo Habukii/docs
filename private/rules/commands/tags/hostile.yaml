@@ -1,9 +1,0 @@
-# HOSTILE
-
-This tag means that the command is considered hostile to an enemy or foe.
-
-[!blue] > This tag is often paired with the `TARGET` tag, to create commands that deliver damage to enemies.
-
-
----
-[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

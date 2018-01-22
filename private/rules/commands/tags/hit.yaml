@@ -1,7 +1,0 @@
-# HIT
-
-This tag means that the command fails if it misses its target.
-
-
----
-[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.

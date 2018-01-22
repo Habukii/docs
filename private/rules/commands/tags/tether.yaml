@@ -1,9 +1,0 @@
-# TETHER
-
-This tag means that the command may be used during another player's phase.
-
-[!red] > The command must have the corresponding `PHASE` tag to be used, as well. For example, during another player's `ACTION` phase, you can use a command that has **both** the `ACTION` and `TETHER` tags.
-
-
----
-[!red xl] > Remember that commands must match **all** of the tags of the slot they are used in.
